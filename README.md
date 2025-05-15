@@ -7,8 +7,7 @@ This project automates the login, add-to-cart, and checkout functionalities of [
 ## 📂 Project Structure
 
 - `pages/` – Page Object Model classes  
-- `tests/` – Test scripts written with PyTest  
-- `utils/` – WebDriver setup and utilities  
+- `tests/` – Test scripts written with PyTest   
 - `data/` – Test data files  
 - `conftest.py` – Shared fixtures  
 - `requirements.txt` – Project dependencies  
